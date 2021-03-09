@@ -1,0 +1,42 @@
+.button
+{
+	width: 100px;
+	margin-right: 20px;
+	height: 100px;
+}
+
+.tools
+{
+	display: flex;
+	justify-content: center;
+	margin-bottom: 20px;
+}
+
+.img
+{
+	width: 80px;
+	height: 80px;
+}
+
+.field
+{
+	width: 1500px;
+	height: 700px;
+	border: 4px solid black;
+	margin: auto;
+}
+
+.filters_red
+{
+	background-color: red; 
+}
+
+.filters_green
+{
+	background-color: green; 
+}
+
+.filters_blue
+{
+	background-color: blue; 
+}
